@@ -11699,3 +11699,13 @@ body {
   font-size: 0.75rem;
   border-radius: 0.25rem !important;
 }
+
+
+
+
+.value-data {
+  font-size: 1.5rem;
+  text-align: center;
+  color: #6c757d;
+
+}
